@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elhag</h1>
-<h3 align="justify">I'm a software developer at Ain Shams University with experience in backend development and a love for programming competitions. I thrive on finding effective solutions to challenging challenges, and I love the excitement of coding competitions. I'm now extending my knowledge into the fascinating domains of machine learning and deep learning, continuously pushing the boundaries of my expertise in the field to develop smart, original solutions.</h3>
+<h3 align="justify">.</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/cge9nG7e7wKWbMm9cY/giphy.gif">
 
 
