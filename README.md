@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/cge9nG7e7wKWbMm9cY/giphy.gif">
 
 
-- 🔭 I’m currently working on  **my Website**
+- 🔭 I’m currently working on  **an extension**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **backend**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
