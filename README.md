@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/cge9nG7e7wKWbMm9cY/giphy.gif">
 
 
-- 🔭 I’m currently working on  **an Api Platform**
+- 🔭 I’m currently working on  **an Ai Platform**
 
 - 🌱 I’m currently learning **backend**
 
