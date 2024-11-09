@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elhag</h1>
 <h3 align="justify">.</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/cge9nG7e7wKWbMm9cY/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/iuhDCV0gok4ToFh3Qp/giphy.gif">
 
 
 - 🔭 I’m currently working on a **Distributed Microservice Application**
